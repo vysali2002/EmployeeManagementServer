@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "vyshu",
+      "email": "vyshu@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "3",
+      "name": "abin",
+      "email": "abin123@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "2",
+      "name": "Vysali",
+      "email": "abin123@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "jikku",
+      "email": "jikku@gmail.com",
+      "status": "1"
+    }
+  ]
+}
